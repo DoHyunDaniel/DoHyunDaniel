@@ -9,11 +9,11 @@
 
 ### 🧠 [MoneyBuddy](https://github.com/yourusername/moneybuddy)
 > AI 소비 상담 & 실시간 채팅 플랫폼  
-→ JWT + OAuth2, Redis Pub/Sub, 포인트 결제, 관리자 기능, AWS 배포
+→ JWT + OAuth2, AWS S3 이미지 업로드, Redis Pub/Sub & WebSocket 기반 채팅, 포인트 결제, 관리자 기능
 
 ### 💬 [MoneyTalk](https://github.com/yourusername/moneytalk)
 > 중고거래 & 가계부 챗봇 플랫폼  
-→ OpenAI 챗봇, S3 이미지 업로드, WebSocket 채팅, 리뷰 시스템
+→ JWT + OAuth2, AWS S3 이미지 업로드, Redis Pub/Sub & WebSocket 기반 채팅, 리뷰
 
 ---
 
