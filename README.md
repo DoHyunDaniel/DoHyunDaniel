@@ -1,17 +1,39 @@
-## Skills are for me to be recognized, and harmony is for me to live.
-### Technology  
-***
-**Knowledgeable** Java, Javascript, node.js, Express.js, MySQL, HTML/CSS, Spring  
-**Currently learning** React, Typescript
-  
-  
-### Timeline  
-***
-* 23.06 ~ 23.08 여행 플랫폼 '위트' 프론트엔드, 백엔드 페이지 개발(Spring, HTML/CSS, MySQL(InnoDB))  
-* 23.08 ~ 23.08 토이 프로젝트 '푸디앤그린' 프론트엔드, 백엔드 페이지 개발(Spring, HTML/CSS, MySQL(InnoDB))  
-* 23.08 ~ 23.12 개인 블로그 프로젝트 'daniweb' 프론트엔드, 백엔드 개발 및 배포완료(Express.js, HTML/CSS, MySQL(MariaDB))
-  
-  
-### Blog  
-***
-<https://bookdaniel.tistory.com/>
+<h1 align="center">👋 Hi, I'm Daniel Kim</h1>
+<p align="center">
+  Java 기반 백엔드 개발자 · 실시간 서비스 & 인증/보안 중심 · Redis & OAuth 경험 보유
+</p>
+
+---
+
+## 💼 Projects
+
+### 🧠 [MoneyBuddy](https://github.com/yourusername/moneybuddy)
+> AI 소비 상담 & 실시간 채팅 플랫폼  
+→ JWT + OAuth2, Redis Pub/Sub, 포인트 결제, 관리자 기능, AWS 배포
+
+### 💬 [MoneyTalk](https://github.com/yourusername/moneytalk)
+> 중고거래 & 가계부 챗봇 플랫폼  
+→ OpenAI 챗봇, S3 이미지 업로드, WebSocket 채팅, 리뷰 시스템
+
+---
+
+## 🛠 Tech Stack
+
+`Java 17` `Spring Boot` `JPA` `Spring Security`  
+`MySQL` `Redis` `Docker` `AWS EC2/S3`  
+`OAuth2` `JWT` `WebSocket (STOMP)` `GitHub Actions`
+
+---
+
+## 📚 Certificates
+
+- 정보처리기사 (Engineer Information Processing)  
+- 빅데이터분석기사
+- SQLD (SQL Developer)  
+- ADsP (데이터 분석 준전문가)  
+
+---
+
+## 📝 Blog
+
+- 📘 [velog.io/@kdhdaniel0506](https://velog.io/@kdhdaniel0506)
