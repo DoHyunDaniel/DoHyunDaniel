@@ -7,7 +7,7 @@
 
 ## 💼 Projects
 
-### 🧠 [MoneyBuddy](https://github.com/DoHyunDaniel/moneybuddy)
+### 🧠 [MoneyBuddy]([https://github.com/DoHyunDaniel/moneybuddy](https://github.com/MoneyBuddyTeam/BE))
 > AI 소비 상담 & 실시간 채팅 플랫폼  
 → JWT + OAuth2, AWS S3 이미지 업로드, Redis Pub/Sub & WebSocket 기반 채팅, 포인트 결제, 관리자 기능
 
