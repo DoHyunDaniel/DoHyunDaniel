@@ -8,7 +8,7 @@
 ## 💼 Projects
 
 ### [MoneyBuddy]((https://github.com/MoneyBuddyTeam/BE))
-> AI 소비 상담 & 실시간 채팅 플랫폼  
+> 실시간 소비 상당 & 소비습관 개선 플랫폼  
 → JWT + OAuth2, AWS S3 이미지 업로드, Redis Pub/Sub & WebSocket 기반 채팅, 포인트 결제, 관리자 기능
 
 ### [MoneyTalk](https://github.com/DoHyunDaniel/moneytalk)
