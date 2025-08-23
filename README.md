@@ -7,13 +7,13 @@
 
 ## 💼 Projects
 
-### [MoneyBuddy]((https://github.com/MoneyBuddyTeam/BE))
+### [MoneyBuddy](https://github.com/MoneyBuddyTeam/BE)
 > 실시간 소비 상당 & 소비습관 개선 플랫폼  
 → JWT + OAuth2, AWS S3 이미지 업로드, Redis Pub/Sub & WebSocket 기반 채팅, 포인트 결제, 관리자 기능
 
 ### [MoneyTalk](https://github.com/DoHyunDaniel/moneytalk)
 > 중고거래 & 가계부 챗봇 플랫폼  
-→ JWT + OAuth2, AWS S3 이미지 업로드, Redis Pub/Sub & WebSocket 기반 채팅, 리뷰
+→ JWT + OAuth2, AWS S3 이미지 업로드, Redis Pub/Sub & WebSocket 기반 채팅, 리뷰 
 
 ---
 
