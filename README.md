@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Daniel Kim</h1>
 <p align="center">
-  Java 기반 백엔드 개발자 · 실시간 서비스 & 인증/보안 중심 · Redis & OAuth 경험 보유
+  Java 기반 백엔드 개발자 · 실시간 서비스 & 인증/보안 중심 · Redis & OAuth2.0 경험 보유
 </p>
 
 ---
