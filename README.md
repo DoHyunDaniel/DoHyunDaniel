@@ -87,18 +87,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoHyunDaniel&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoHyunDaniel&theme=tokyonight&hide_border=true&custom_title=Daniel's%20Contribution%20Graph" alt="Contribution Graph">
-</div>
-
----
-
 ## 📚 Certificates & Achievements
 
 <div align="center">
