@@ -32,21 +32,6 @@
 
 ---
 
-### 🔍 [YouTube 검색어 유사도 검색 시스템](https://github.com/DoHyunDaniel/yt_search_project)
-> **AI 기반 행궁 검색어 유사도 분석 플랫폼**  
-> `Python` `FastAPI` `PostgreSQL` `OpenSearch` `Docker` `AI/ML`
-
-**핵심 기능:**
-- 🧠 **벡터 임베딩 & 다중 유사도 알고리즘** (Cosine, Jaccard, Levenshtein)
-- 🎯 **의미 기반 키워드 매핑** (데이트→궁궐 커플여행, 카페→궁궐 카페)
-- 📊 **YouTube API 연동 데이터 수집** & KoELECTRA 감성분석
-- 🎨 **글래스모피즘 UI** & 토글 네비게이션
-- 🔒 **XSS/SQL Injection 방어** & 환경변수 보안 분리
-
-**기술 스택:** `Python 3.12` `FastAPI` `PostgreSQL` `OpenSearch` `Docker` `Sentence-Transformers` `KoELECTRA`
-
----
-
 ### 💰 [MoneyBuddy](https://github.com/MoneyBuddyTeam/BE)
 > **실시간 소비 상당 & 소비습관 개선 플랫폼**  
 > `Java` `Spring Boot` `Redis` `WebSocket` `OAuth2`
