@@ -16,6 +16,22 @@
 
 ## 💼 Featured Projects
 
+### 🔍 [YT2 Search System](https://github.com/DoHyunDaniel/yt2_search_project)
+> **7가지 검색 알고리즘을 활용한 YouTube 데이터 검색 플랫폼**  
+> `Python` `FastAPI` `PostgreSQL` `OpenSearch` `React` `AI/ML`
+
+**핵심 기능:**
+- 🔍 **7가지 검색 알고리즘** (기본, TF-IDF, 가중치, BM25, 하이브리드, 의미 기반, 감정 분석)
+- 🤖 **AI 기반 통계 분석** (인기 비디오, 채널 분석, 트렌드 분석)
+- 🎯 **AI 추천 시스템** (콘텐츠 기반, 인기도 기반, 트렌드 기반)
+- ⚡ **실시간 디바운싱 검색** (800ms) & 검색 결과 캐싱
+- 📊 **YouTube API 통합** & 자동 크롤링 시스템
+- 🎨 **반응형 UI/UX** & Material Design 기반 인터페이스
+
+**기술 스택:** `Python 3.11` `FastAPI` `PostgreSQL` `OpenSearch` `Redis` `React 18` `Docker` `scikit-learn`
+
+---
+
 ### 🔍 [YouTube 검색어 유사도 검색 시스템](https://github.com/DoHyunDaniel/yt_search_project)
 > **AI 기반 행궁 검색어 유사도 분석 플랫폼**  
 > `Python` `FastAPI` `PostgreSQL` `OpenSearch` `Docker` `AI/ML`
