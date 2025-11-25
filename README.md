@@ -8,9 +8,6 @@
   실시간 서비스 & 인증/보안 · 검색/추천 & 데이터 분석 · Redis & OAuth2.0 기반 인프라 경험
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoHyunDaniel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
 
 ---
 
