@@ -135,6 +135,7 @@ MySQL · Redis · Docker · AWS EC2/S3
 
 <div align="center">
   <img src="https://img.shields.io/badge/정보처리기사-Engineer%20Information%20Processing-blue?style=for-the-badge" alt="정보처리기사">
+  <img src="https://img.shields.io/badge/빅데이터분석기사-Big%20Data%20Analysis%20Engineer-green?style=for-the-badge" alt="빅데이터분석기사">
   <img src="https://img.shields.io/badge/SQLD-SQL%20Developer-orange?style=for-the-badge" alt="SQLD">
   <img src="https://img.shields.io/badge/ADsP-Data%20Analysis%20Professional-purple?style=for-the-badge" alt="ADsP">
 </div>
